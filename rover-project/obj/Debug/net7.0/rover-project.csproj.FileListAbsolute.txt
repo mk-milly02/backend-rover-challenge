@@ -1,0 +1,17 @@
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\bin\Debug\net7.0\rover-project.exe
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\bin\Debug\net7.0\rover-project.deps.json
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\bin\Debug\net7.0\rover-project.runtimeconfig.json
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\bin\Debug\net7.0\rover-project.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\bin\Debug\net7.0\rover-project.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\bin\Debug\net7.0\Spectre.Console.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\refint\rover-project.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\rover-project.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\backend-rover-challenge\rover-project\obj\Debug\net7.0\ref\rover-project.dll

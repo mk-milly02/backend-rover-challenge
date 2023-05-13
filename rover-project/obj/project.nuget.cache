@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uLutjjLPZPUfWdvngq848GznZRHmTGZQevxXEcisPmDPLwoJQfmqLh1E+6+mYujnCzPCJCr6yz4ywvkWI7Owuw==",
+  "dgSpecHash": "roG5qtIQc3c59obt8p5McZ7GC936fiKHUFOXfokaaBx5nc62z53GDAlVlApfacTGiziiJlOYhdCohy6yuPnIgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\backend-rover-challenge\\rover-project\\rover-project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
   "logs": []
 }
