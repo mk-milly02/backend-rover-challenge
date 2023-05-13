@@ -16,7 +16,7 @@ rover.Area = RoverExtensions.CalculateArea(coordinates);
 
 string position = AnsiConsole.Prompt(
     new TextPrompt<string>("? Input the rover's current position: ")
-    .PromptStyle(new Style(Color.CadetBlue))
+    .PromptStyle(new Style(decoration: Decoration.Bold))
     .Validate(input => RoverExtensions.ValidateCurrentPosition(input)
     ? ValidationResult.Success()
     : ValidationResult.Error("[red]! The position provided is invalid[/]")));
@@ -25,7 +25,7 @@ rover.Position = RoverExtensions.GeneratePosition(position);
 
 string instructions = AnsiConsole.Prompt(
     new TextPrompt<string>("? Enter a series of instructions: ")
-    .PromptStyle(new Style(Color.LightCyan1))
+    .PromptStyle(new Style(decoration: Decoration.Bold))
     .Validate(input => RoverExtensions.ValidateInstructions(input)
     ? ValidationResult.Success()
     : ValidationResult.Error("[red]! The instructions provided are invalid[/]")));
